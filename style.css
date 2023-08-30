@@ -1,0 +1,57 @@
+body {
+  background-color: #484c68;
+}
+
+main .login-form {
+  background-color: #353b50;
+  height: 450px;
+  width: 30%;
+  margin: 100px auto 100px auto;
+}
+
+form {
+  color: #d3d3d9;
+  font-family: serif;
+}
+
+form h1 {
+  text-decoration: underline;
+  text-decoration-thickness: -5%;
+  text-underline-offset: 10px;
+  border: 0;
+  height: 80px;
+  font-weight: 100;
+  padding-top: 50px;
+  padding-left: 50px;
+}
+
+div.form-inputs {
+  padding-top: 10px;
+  padding-left: 71px;
+}
+
+div.form-inputs input {
+  font-size: 14px;
+  color: #d3d3d9;
+  width: 80%;
+  border: 0;
+  outline: 0;
+  border-bottom: 1px solid #d3d3d9;
+  background-color: #353b50;
+  margin-bottom: 20px;
+  padding-bottom: 5px;
+}
+
+[type="submit"] {
+  font-size: 15px;
+  width: 315px;
+  height: 45px;
+  background-color: #a33853;
+  margin-bottom: 20px;
+  color: #d3d3d9;
+  border: 0;
+}
+
+#forgot-password {
+  padding-left: 100px;
+}
